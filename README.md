@@ -13,4 +13,5 @@ This repo includes all development resources
 # Javascript
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
 
+*****
 __Created by__ Cumali Toprak, Ömer Gürbüz
