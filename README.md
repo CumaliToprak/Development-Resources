@@ -2,4 +2,4 @@
 
 This repo includes all development resources
 ***
-### **Created by** Cumali Toprak, Ömer Gürbüz
+### __Created b__* Cumali Toprak, Ömer Gürbüz
