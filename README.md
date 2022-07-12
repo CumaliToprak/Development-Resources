@@ -11,6 +11,7 @@ This repo includes all development resources
 - [Javascript](#Javascript)
 
 # Javascript
+| ----------------------- | ------------------ |
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
 
 *****
