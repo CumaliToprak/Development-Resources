@@ -16,6 +16,8 @@ This repo includes all development resources
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [jacoco](https://www.baeldung.com/jacoco)| JaCoCo, a code coverage reports generator for Java projects. |
+| [Spring Profile [TR]](https://bilisim.io/2021/01/11/spring-boot-profiles/#:~:text=Uygulamalar%2C%20farkl%C4%B1%20ortamlarda%20farkl%C4%B1%20konfig%C3%BCrasyonlara,ortamlar%C4%B1%20olmazsa%20olmaz%20iki%20ortamd%C4%B1r.)| Spring Profile ortama bağlı konfigürasyon yönetmemizi sağlar.|
+| [Spring Profile [EN]](https://www.baeldung.com/spring-profiles)| Allowing us to map our beans to different profiles |
 
 
 # Javascript
