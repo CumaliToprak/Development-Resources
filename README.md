@@ -6,7 +6,7 @@ This repo includes all development resources
 
 ## Table of Contents
 
-- [Core JAVA](#core-java)
+- [Java](#Java)
 - [C#](#Csharp)
 - [Javascript](#Javascript)
 
