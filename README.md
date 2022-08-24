@@ -7,8 +7,15 @@ This repo includes all development resources
 ## Table of Contents
 
 - [Java](#Java)
-- [C#](#Csharp)
+- [C#](#CSharp)
 - [Javascript](#Javascript)
+
+
+# CSharp
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Türkay Ürkmez](https://www.turkayurkmez.com/)| Hem C# üzerine hem de yazılım üzerine pek çok makale içerir |
+
 
 # Java
 >Websites that java tool, libraries and guides
